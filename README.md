@@ -1,22 +1,6 @@
-# digimon-db-front
+# what is this repository?
+デジモンワールド ネクストオーダー インターナショナルエディションのデジモン育成条件をデータベース化したものです。
 
-> My brilliant Nuxt.js project
+個人的に欲しいと思った機能を実装してあります。
 
-## Build Setup
-
-```bash
-# install dependencies
-$ npm install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+ローカルでしか動きません。系統樹は未完成です。
